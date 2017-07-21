@@ -144,7 +144,7 @@ header{
 main {
   position: relative;
   top: 13.5rem;
-  overflow-y: auto;
+  overflow-y: scroll;
   margin-bottom: 3.75rem;
 
 
