@@ -159,7 +159,7 @@ main {
   background-color: #457087;
   color: white;
   width: 100%;
-  
+
 }
 
 small {
@@ -169,7 +169,7 @@ small {
 
 #home{
   z-index: 0;
-  width: 45%;
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
 
@@ -179,7 +179,7 @@ small {
 #about{
 
   z-index: 0;
-  width: 45%;
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
 
@@ -188,7 +188,7 @@ small {
 #worship {
 
   z-index: 0;
-  width: 45%;
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
 
@@ -197,7 +197,7 @@ small {
 #events {
 
   z-index: 0;
-  width: 45%;
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
 
