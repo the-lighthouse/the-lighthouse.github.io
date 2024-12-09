@@ -61,7 +61,7 @@
               "background-image": "url(@bg-value)"
             },
             "P": {
-              "color": "#767676"
+              "color": "#282828"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff"
@@ -96,16 +96,16 @@
               "background-image": "url(@bg-value)"
             },
             "h1": {
-              "color": "#616161"
+              "color": "#282828"
             },
             "h2, h3, p": {
-              "color": "#767676"
+              "color": "#282828"
             },
             ".mbr-section-subtitle": {
               "font-style": "italic"
             },
             "H1": {
-              "color": "#465052"
+              "color": "#282828"
             }
           },
           "_name": "header9",
