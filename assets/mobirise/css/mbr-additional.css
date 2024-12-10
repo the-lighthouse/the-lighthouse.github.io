@@ -424,7 +424,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #149dcc !important;
+  color: #282828 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -744,12 +744,12 @@ section.lazy-placeholder:after {
 }
 .cid-rDvsWr3M6c .navbar {
   padding: .5rem 0;
-  background: #0f7699;
+  background: #FFF;
   transition: none;
   min-height: 77px;
 }
 .cid-rDvsWr3M6c .navbar-dropdown.bg-color.transparent.opened {
-  background: #0f7699;
+  background: #FFF;
 }
 .cid-rDvsWr3M6c a {
   font-style: normal;
