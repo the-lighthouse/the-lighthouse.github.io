@@ -747,8 +747,8 @@ section.lazy-placeholder:after {
   background: #FFF;
   transition: none;
   min-height: 77px;
-  stroke-color: #c4c8ce;
-  stroke-bottom: 1px;
+  border-color: #c4c8ce;
+  border-bottom: 1px;
 }
 .cid-rDvsWr3M6c .navbar-dropdown.bg-color.transparent.opened {
   background: #FFF;
